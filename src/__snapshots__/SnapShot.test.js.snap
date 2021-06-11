@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <input
+    type="text"
+  >
+    email
+  </input>
+  <button
+    onClick={[Function]}
+  >
+    Facebook
+  </button>
+</div>
+`;
